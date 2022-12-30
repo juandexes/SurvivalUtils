@@ -1,0 +1,16 @@
+name: survival-utils
+main: d.studio.main
+version: 1
+api-version: 1.13
+commands:
+    helpop:
+      description: Pide ayuda al staff
+      aliases:
+        - ayuda
+        - helpop
+    report:
+      description: Reporte a un usuario
+      aliases:
+        - reporte
+        - reportar
+        - report
